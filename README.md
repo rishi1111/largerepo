@@ -1,14 +1,4 @@
-# mediumepo
-k
-k
+qweqwe
+qweqw
+e
 
-
-2
-2
-
-2
-2
-
-2
-2
-2
