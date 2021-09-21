@@ -1,3 +1,3 @@
 print("hello")
-import time
+import e
 time.sleep(1)
