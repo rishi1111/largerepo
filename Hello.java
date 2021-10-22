@@ -3,7 +3,7 @@
  */
 public class Hello {
 
-    private static Type name() {
-        
+    public static void main(String[] args) {
+        pri
     }
 }
